@@ -1,0 +1,9 @@
+
+./NMDA_CA1_pyr_SC.c: ../NMDA_CA1_pyr_SC.mod
+	@printf " -> $(C_GREEN)NMODL$(C_RESET) $<\n"
+	(cd ".."; MODLUNIT=$(NRNUNITS) $(NOCMODL) NMDA_CA1_pyr_SC.mod -o "/home/szabobogi/hippounit_standard_features_jo/hippounit/hippounit/tests/default_NMDAr/x86_64")
+
+./NMDA_CA1_pyr_SC.o: ./NMDA_CA1_pyr_SC.c
+	@printf " -> $(C_GREEN)Compiling$(C_RESET) $<\n"
+	$(COMPILE) -I".." $(INCLUDES) -fPIC -c $< -o $@
+

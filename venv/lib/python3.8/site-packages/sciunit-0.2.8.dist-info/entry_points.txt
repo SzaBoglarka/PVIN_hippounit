@@ -1,0 +1,2 @@
+[console_scripts]
+sciunit = sciunit.__main__:main

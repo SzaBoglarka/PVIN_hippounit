@@ -1,0 +1,7 @@
+Features excluded (due to invalid values):
+burst_mean_freq.rheobase_current, burst_mean_freq.steady_state_current, burst_number.highfreq_firing_current, interburst_voltage.rheobase_current, interburst_voltage.steady_state_current, min_AHP_values.highfreq_firing_current, min_AHP_values.rheobase_current, min_AHP_values.steady_state_current
+---------------------------------------------------------------------------------------------------
+Number of features succesfully evaluated: 244/252
+---------------------------------------------------------------------------------------------------
+ZScore_avg = 3.43
+---------------------------------------------------------------------------------------------------

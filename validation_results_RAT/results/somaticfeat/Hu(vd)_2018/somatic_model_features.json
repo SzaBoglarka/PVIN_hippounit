@@ -1,0 +1,778 @@
+{
+    "AHP1_depth_from_peak.highfreq_firing_current": {
+        "feature mean": 109.63896736400721,
+        "feature sd": 0.0
+    },
+    "AHP1_depth_from_peak.rheobase_current": {
+        "feature mean": 108.57201524533727,
+        "feature sd": 0.0
+    },
+    "AHP1_depth_from_peak.steady_state_current": {
+        "feature mean": 106.79439708247087,
+        "feature sd": 0.0
+    },
+    "AHP2_depth_from_peak.highfreq_firing_current": {
+        "feature mean": 97.43155363561293,
+        "feature sd": 0.0
+    },
+    "AHP2_depth_from_peak.steady_state_current": {
+        "feature mean": 97.17242036896923,
+        "feature sd": 0.0
+    },
+    "AHP_depth.highfreq_firing_current": {
+        "feature mean": -9.844192635233501,
+        "feature sd": 0.053221024954332556
+    },
+    "AHP_depth.rheobase_current": {
+        "feature mean": -12.16372921089713,
+        "feature sd": 0.0
+    },
+    "AHP_depth.steady_state_current": {
+        "feature mean": -10.567410400374783,
+        "feature sd": 0.2780704004447159
+    },
+    "AHP_depth_abs.highfreq_firing_current": {
+        "feature mean": -83.8686688316488,
+        "feature sd": 0.05322102495433255
+    },
+    "AHP_depth_abs.rheobase_current": {
+        "feature mean": -86.18820540731417,
+        "feature sd": 0.0
+    },
+    "AHP_depth_abs.steady_state_current": {
+        "feature mean": -84.59188659679072,
+        "feature sd": 0.2780704004447159
+    },
+    "AHP_depth_diff.highfreq_firing_current": {
+        "feature mean": 0.004285333416158957,
+        "feature sd": 0.05551558225829007
+    },
+    "AHP_depth_diff.steady_state_current": {
+        "feature mean": -0.020512823873945294,
+        "feature sd": 0.279157655940554
+    },
+    "AHP_depth_from_peak.highfreq_firing_current": {
+        "feature mean": 98.91951668428297,
+        "feature sd": 2.755522648813882
+    },
+    "AHP_depth_from_peak.rheobase_current": {
+        "feature mean": 108.57201524533727,
+        "feature sd": 0.0
+    },
+    "AHP_depth_from_peak.steady_state_current": {
+        "feature mean": 99.54608560833826,
+        "feature sd": 2.734986587313228
+    },
+    "AHP_time_from_peak.highfreq_firing_current": {
+        "feature mean": 0.8900000000000119,
+        "feature sd": 0.02999999999999262
+    },
+    "AHP_time_from_peak.rheobase_current": {
+        "feature mean": 0.9999999999999432,
+        "feature sd": 0.0
+    },
+    "AHP_time_from_peak.steady_state_current": {
+        "feature mean": 0.9251968503937035,
+        "feature sd": 0.04855146459669603
+    },
+    "AP1_peak.highfreq_firing_current": {
+        "feature mean": 25.13913316886035,
+        "feature sd": 0.0
+    },
+    "AP1_peak.rheobase_current": {
+        "feature mean": 22.383809838023105,
+        "feature sd": 0.0
+    },
+    "AP1_peak.steady_state_current": {
+        "feature mean": 21.711006155982002,
+        "feature sd": 0.0
+    },
+    "AP2_AP1_peak_diff.highfreq_firing_current": {
+        "feature mean": -11.58994278179519,
+        "feature sd": 0.0
+    },
+    "AP2_AP1_peak_diff.steady_state_current": {
+        "feature mean": -9.080854088955103,
+        "feature sd": 0.0
+    },
+    "AP2_amp.highfreq_firing_current": {
+        "feature mean": 66.68444040183564,
+        "feature sd": 0.0
+    },
+    "AP2_amp.steady_state_current": {
+        "feature mean": 65.38058910487888,
+        "feature sd": 0.0
+    },
+    "AP2_begin_voltage.highfreq_firing_current": {
+        "feature mean": -53.135250014770484,
+        "feature sd": 0.0
+    },
+    "AP2_begin_voltage.steady_state_current": {
+        "feature mean": -52.75043703785199,
+        "feature sd": 0.0
+    },
+    "AP2_begin_width.highfreq_firing_current": {
+        "feature mean": 0.9999999999999432,
+        "feature sd": 0.0
+    },
+    "AP2_begin_width.steady_state_current": {
+        "feature mean": 0.9999999999999432,
+        "feature sd": 0.0
+    },
+    "AP2_peak.highfreq_firing_current": {
+        "feature mean": 13.549190387065162,
+        "feature sd": 0.0
+    },
+    "AP2_peak.steady_state_current": {
+        "feature mean": 12.630152067026899,
+        "feature sd": 0.0
+    },
+    "AP2_width.highfreq_firing_current": {
+        "feature mean": 0.4181613020001592,
+        "feature sd": 0.0
+    },
+    "AP2_width.steady_state_current": {
+        "feature mean": 0.42670927963813216,
+        "feature sd": 0.0
+    },
+    "AP_amplitude.highfreq_firing_current": {
+        "feature mean": 68.66945457803736,
+        "feature sd": 2.8618773970488998
+    },
+    "AP_amplitude.steady_state_current": {
+        "feature mean": 67.90855154121994,
+        "feature sd": 2.555965518461643
+    },
+    "AP_amplitude_change.highfreq_firing_current": {
+        "feature mean": -0.29696335573545113,
+        "feature sd": 0.02929984945826732
+    },
+    "AP_amplitude_change.steady_state_current": {
+        "feature mean": -0.2819842306237724,
+        "feature sd": 0.027024925529789575
+    },
+    "AP_amplitude_from_voltagebase.highfreq_firing_current": {
+        "feature mean": 89.07532404904947,
+        "feature sd": 2.729006258312778
+    },
+    "AP_amplitude_from_voltagebase.rheobase_current": {
+        "feature mean": 96.40828603444015,
+        "feature sd": 0.0
+    },
+    "AP_amplitude_from_voltagebase.steady_state_current": {
+        "feature mean": 88.97867520796349,
+        "feature sd": 2.6843842274225485
+    },
+    "AP_begin_voltage.highfreq_firing_current": {
+        "feature mean": -53.686313338263766,
+        "feature sd": 0.32002718176934924
+    },
+    "AP_begin_voltage.steady_state_current": {
+        "feature mean": -53.00797798319964,
+        "feature sd": 0.3216144646465192
+    },
+    "AP_begin_width.highfreq_firing_current": {
+        "feature mean": 1.034899328859074,
+        "feature sd": 0.04766518363640355
+    },
+    "AP_begin_width.steady_state_current": {
+        "feature mean": 0.9944444444444513,
+        "feature sd": 0.02290614236456549
+    },
+    "AP_duration.highfreq_firing_current": {
+        "feature mean": 1.4342281879194823,
+        "feature sd": 0.04744733863657929
+    },
+    "AP_duration.steady_state_current": {
+        "feature mean": 1.407936507936517,
+        "feature sd": 0.02703077200944188
+    },
+    "AP_duration_change.highfreq_firing_current": {
+        "feature mean": -0.37632197414801694,
+        "feature sd": 0.020662430403758713
+    },
+    "AP_duration_change.steady_state_current": {
+        "feature mean": -0.4584615384615041,
+        "feature sd": 0.010434353820206715
+    },
+    "AP_duration_half_width.highfreq_firing_current": {
+        "feature mean": 0.2791946308724876,
+        "feature sd": 0.04059154503366092
+    },
+    "AP_duration_half_width.steady_state_current": {
+        "feature mean": 0.27539682539682825,
+        "feature sd": 0.043069725559419146
+    },
+    "AP_duration_half_width_change.highfreq_firing_current": {
+        "feature mean": -0.06981981981975195,
+        "feature sd": 0.13564094526951065
+    },
+    "AP_duration_half_width_change.steady_state_current": {
+        "feature mean": -0.31199999999995337,
+        "feature sd": 0.10796295661014774
+    },
+    "AP_fall_rate.highfreq_firing_current": {
+        "feature mean": -131.1384406957338,
+        "feature sd": 8.13509532498028
+    },
+    "AP_fall_rate.rheobase_current": {
+        "feature mean": -135.16263187483602,
+        "feature sd": 0.0
+    },
+    "AP_fall_rate.steady_state_current": {
+        "feature mean": -130.67140806991029,
+        "feature sd": 7.852187048654942
+    },
+    "AP_fall_time.highfreq_firing_current": {
+        "feature mean": 0.7540000000000089,
+        "feature sd": 0.04983974317748911
+    },
+    "AP_fall_time.rheobase_current": {
+        "feature mean": 0.7999999999999545,
+        "feature sd": 0.0
+    },
+    "AP_fall_time.steady_state_current": {
+        "feature mean": 0.7606299212598474,
+        "feature sd": 0.04885698285824618
+    },
+    "AP_height.highfreq_firing_current": {
+        "feature mean": 15.050847852634167,
+        "feature sd": 2.7290062583127774
+    },
+    "AP_height.rheobase_current": {
+        "feature mean": 22.383809838023105,
+        "feature sd": 0.0
+    },
+    "AP_height.steady_state_current": {
+        "feature mean": 14.954199011547539,
+        "feature sd": 2.6843842274225485
+    },
+    "AP_rise_rate.highfreq_firing_current": {
+        "feature mean": 101.16402370191122,
+        "feature sd": 5.808291658450356
+    },
+    "AP_rise_rate.steady_state_current": {
+        "feature mean": 105.6506882480319,
+        "feature sd": 9.448295611063294
+    },
+    "AP_rise_rate_change.highfreq_firing_current": {
+        "feature mean": 0.552537973462169,
+        "feature sd": 0.08860204717917039
+    },
+    "AP_rise_rate_change.steady_state_current": {
+        "feature mean": 1.1219070404453908,
+        "feature sd": 0.19047266081507416
+    },
+    "AP_rise_time.highfreq_firing_current": {
+        "feature mean": 0.6805369127516878,
+        "feature sd": 0.03959162739263459
+    },
+    "AP_rise_time.steady_state_current": {
+        "feature mean": 0.6468253968254006,
+        "feature sd": 0.049899117173387984
+    },
+    "AP_width.highfreq_firing_current": {
+        "feature mean": 0.20671140939597704,
+        "feature sd": 0.025021948835324423
+    },
+    "AP_width.steady_state_current": {
+        "feature mean": 0.20793650793650897,
+        "feature sd": 0.027030772009404173
+    },
+    "APlast_amp.highfreq_firing_current": {
+        "feature mean": 65.64304496146177,
+        "feature sd": 0.0
+    },
+    "APlast_amp.rheobase_current": {
+        "feature mean": 78.10146443420263,
+        "feature sd": 0.0
+    },
+    "APlast_amp.steady_state_current": {
+        "feature mean": 70.28161325363371,
+        "feature sd": 0.0
+    },
+    "ISI_CV.highfreq_firing_current": {
+        "feature mean": 0.007376467663363354,
+        "feature sd": 0.0
+    },
+    "ISI_CV.steady_state_current": {
+        "feature mean": 0.004554094004833114,
+        "feature sd": 0.0
+    },
+    "ISI_log_slope.highfreq_firing_current": {
+        "feature mean": -0.00022872121441145876,
+        "feature sd": 0.0
+    },
+    "ISI_log_slope.steady_state_current": {
+        "feature mean": -4.267934702805042e-05,
+        "feature sd": 0.0
+    },
+    "ISI_log_slope_skip.highfreq_firing_current": {
+        "feature mean": 0.00016909757166821656,
+        "feature sd": 0.0
+    },
+    "ISI_log_slope_skip.steady_state_current": {
+        "feature mean": -0.0002498897243079236,
+        "feature sd": 0.0
+    },
+    "ISI_semilog_slope.highfreq_firing_current": {
+        "feature mean": -3.033883984820712e-06,
+        "feature sd": 0.0
+    },
+    "ISI_semilog_slope.steady_state_current": {
+        "feature mean": -6.956008665961787e-07,
+        "feature sd": 0.0
+    },
+    "ISI_values.highfreq_firing_current": {
+        "feature mean": 6.660135135135247,
+        "feature sd": 0.04896201625540842
+    },
+    "ISI_values.steady_state_current": {
+        "feature mean": 7.9152000000000955,
+        "feature sd": 0.03590208907577831
+    },
+    "Spikecount.highfreq_firing_current": {
+        "feature mean": 150.0,
+        "feature sd": 0.0
+    },
+    "Spikecount.rheobase_current": {
+        "feature mean": 1.0,
+        "feature sd": 0.0
+    },
+    "Spikecount.steady_state_current": {
+        "feature mean": 127.0,
+        "feature sd": 0.0
+    },
+    "Spikecount_stimint.highfreq_firing_current": {
+        "feature mean": 150.0,
+        "feature sd": 0.0
+    },
+    "Spikecount_stimint.rheobase_current": {
+        "feature mean": 1.0,
+        "feature sd": 0.0
+    },
+    "Spikecount_stimint.steady_state_current": {
+        "feature mean": 127.0,
+        "feature sd": 0.0
+    },
+    "adaptation_index.highfreq_firing_current": {
+        "feature mean": -5.149860954046235e-05,
+        "feature sd": 0.0
+    },
+    "adaptation_index.steady_state_current": {
+        "feature mean": -3.466019815330343e-15,
+        "feature sd": 0.0
+    },
+    "adaptation_index2.highfreq_firing_current": {
+        "feature mean": -5.114827886331635e-05,
+        "feature sd": 0.0
+    },
+    "adaptation_index2.steady_state_current": {
+        "feature mean": -3.438068042626066e-15,
+        "feature sd": 0.0
+    },
+    "amp_drop_first_last.highfreq_firing_current": {
+        "feature mean": 12.753976649377433,
+        "feature sd": 0.0
+    },
+    "amp_drop_first_last.steady_state_current": {
+        "feature mean": 3.8847183393606812,
+        "feature sd": 0.0
+    },
+    "amp_drop_first_second.highfreq_firing_current": {
+        "feature mean": 11.58994278179519,
+        "feature sd": 0.0
+    },
+    "amp_drop_first_second.steady_state_current": {
+        "feature mean": 9.080854088955103,
+        "feature sd": 0.0
+    },
+    "amp_drop_second_last.highfreq_firing_current": {
+        "feature mean": 1.1640338675822441,
+        "feature sd": 0.0
+    },
+    "amp_drop_second_last.steady_state_current": {
+        "feature mean": -5.196135749594422,
+        "feature sd": 0.0
+    },
+    "average_fI_slope.global": {
+        "feature mean": 0.2709090909090909,
+        "feature sd": 0.0
+    },
+    "decay_time_constant_after_stim.highfreq_firing_current": {
+        "feature mean": 132.51839691467075,
+        "feature sd": 0.0
+    },
+    "decay_time_constant_after_stim.rheobase_current": {
+        "feature mean": 51.922585900190015,
+        "feature sd": 0.0
+    },
+    "decay_time_constant_after_stim.rheobase_prev_current": {
+        "feature mean": 152.11459200271207,
+        "feature sd": 0.0
+    },
+    "decay_time_constant_after_stim.standard_negative_current": {
+        "feature mean": 1.8786665517968824,
+        "feature sd": 0.0
+    },
+    "decay_time_constant_after_stim.steady_state_current": {
+        "feature mean": 5.802623714349885,
+        "feature sd": 0.0
+    },
+    "doublet_ISI.highfreq_firing_current": {
+        "feature mean": 7.199999999999591,
+        "feature sd": 0.0
+    },
+    "doublet_ISI.steady_state_current": {
+        "feature mean": 8.499999999999517,
+        "feature sd": 0.0
+    },
+    "fast_AHP.highfreq_firing_current": {
+        "feature mean": 30.175245757275096,
+        "feature sd": 0.3113889159088013
+    },
+    "fast_AHP.steady_state_current": {
+        "feature mean": 31.550946397481475,
+        "feature sd": 0.3128356756415065
+    },
+    "fast_AHP_change.highfreq_firing_current": {
+        "feature mean": 1.5219570874793045,
+        "feature sd": 0.025815346668761032
+    },
+    "fast_AHP_change.steady_state_current": {
+        "feature mean": 1.5825294774974628,
+        "feature sd": 0.02564952304837632
+    },
+    "highfreq_firing_current.global": {
+        "feature mean": 0.9,
+        "feature sd": 0.0
+    },
+    "initial_fI_slope.global": {
+        "feature mean": 0.36000000000000004,
+        "feature sd": 0.0
+    },
+    "inv_fifth_ISI.highfreq_firing_current": {
+        "feature mean": 149.25373134329206,
+        "feature sd": 0.0
+    },
+    "inv_fifth_ISI.steady_state_current": {
+        "feature mean": 126.58227848101986,
+        "feature sd": 0.0
+    },
+    "inv_first_ISI.highfreq_firing_current": {
+        "feature mean": 138.8888888888968,
+        "feature sd": 0.0
+    },
+    "inv_first_ISI.steady_state_current": {
+        "feature mean": 117.6470588235361,
+        "feature sd": 0.0
+    },
+    "inv_fourth_ISI.highfreq_firing_current": {
+        "feature mean": 151.51515151516014,
+        "feature sd": 0.0
+    },
+    "inv_fourth_ISI.steady_state_current": {
+        "feature mean": 125.0000000000071,
+        "feature sd": 0.0
+    },
+    "inv_last_ISI.highfreq_firing_current": {
+        "feature mean": 151.51515151528932,
+        "feature sd": 0.0
+    },
+    "inv_last_ISI.steady_state_current": {
+        "feature mean": 126.58227848112779,
+        "feature sd": 0.0
+    },
+    "inv_second_ISI.highfreq_firing_current": {
+        "feature mean": 149.25373134329206,
+        "feature sd": 0.0
+    },
+    "inv_second_ISI.steady_state_current": {
+        "feature mean": 126.58227848101986,
+        "feature sd": 0.0
+    },
+    "inv_third_ISI.highfreq_firing_current": {
+        "feature mean": 149.25373134329206,
+        "feature sd": 0.0
+    },
+    "inv_third_ISI.steady_state_current": {
+        "feature mean": 126.58227848101986,
+        "feature sd": 0.0
+    },
+    "inv_time_to_first_spike.highfreq_firing_current": {
+        "feature mean": 625.0000000028,
+        "feature sd": 0.0
+    },
+    "inv_time_to_first_spike.rheobase_current": {
+        "feature mean": 250.00000000045654,
+        "feature sd": 0.0
+    },
+    "inv_time_to_first_spike.steady_state_current": {
+        "feature mean": 500.0000000017977,
+        "feature sd": 0.0
+    },
+    "irregularity_index.highfreq_firing_current": {
+        "feature mean": 0.07905405405405763,
+        "feature sd": 0.0
+    },
+    "irregularity_index.steady_state_current": {
+        "feature mean": 0.03040000000009172,
+        "feature sd": 0.0
+    },
+    "max_amp_difference.highfreq_firing_current": {
+        "feature mean": 11.58994278179519,
+        "feature sd": 0.0
+    },
+    "max_amp_difference.steady_state_current": {
+        "feature mean": 9.080854088955103,
+        "feature sd": 0.0
+    },
+    "maximum_fI_slope.global": {
+        "feature mean": 1.2600000000000002,
+        "feature sd": 0.0
+    },
+    "maximum_voltage.highfreq_firing_current": {
+        "feature mean": 25.13913316886035,
+        "feature sd": 0.0
+    },
+    "maximum_voltage.rheobase_current": {
+        "feature mean": 22.383809838023105,
+        "feature sd": 0.0
+    },
+    "maximum_voltage.steady_state_current": {
+        "feature mean": 21.711006155982002,
+        "feature sd": 0.0
+    },
+    "maximum_voltage_from_voltagebase.highfreq_firing_current": {
+        "feature mean": 99.16360936527566,
+        "feature sd": 0.0
+    },
+    "maximum_voltage_from_voltagebase.rheobase_current": {
+        "feature mean": 96.40828603444015,
+        "feature sd": 0.0
+    },
+    "maximum_voltage_from_voltagebase.steady_state_current": {
+        "feature mean": 95.73548235239794,
+        "feature sd": 0.0
+    },
+    "mean_frequency.highfreq_firing_current": {
+        "feature mean": 150.8295625942671,
+        "feature sd": 0.0
+    },
+    "mean_frequency.rheobase_current": {
+        "feature mean": 250.00000000045654,
+        "feature sd": 0.0
+    },
+    "mean_frequency.steady_state_current": {
+        "feature mean": 127.01270127012648,
+        "feature sd": 0.0
+    },
+    "min_voltage_between_spikes.highfreq_firing_current": {
+        "feature mean": -83.86871815591398,
+        "feature sd": 0.05339590322120317
+    },
+    "min_voltage_between_spikes.steady_state_current": {
+        "feature mean": -84.56747294490329,
+        "feature sd": 0.047344173571021324
+    },
+    "minimum_voltage.rheobase_prev_current": {
+        "feature mean": -73.52845710402926,
+        "feature sd": 0.0
+    },
+    "minimum_voltage.standard_negative_current": {
+        "feature mean": -81.13567385134569,
+        "feature sd": 0.0
+    },
+    "number_initial_spikes.highfreq_firing_current": {
+        "feature mean": 15.0,
+        "feature sd": 0.0
+    },
+    "number_initial_spikes.rheobase_current": {
+        "feature mean": 1.0,
+        "feature sd": 0.0
+    },
+    "number_initial_spikes.steady_state_current": {
+        "feature mean": 13.0,
+        "feature sd": 0.0
+    },
+    "peak_voltage.highfreq_firing_current": {
+        "feature mean": 15.050847852634167,
+        "feature sd": 2.7290062583127774
+    },
+    "peak_voltage.rheobase_current": {
+        "feature mean": 22.383809838023105,
+        "feature sd": 0.0
+    },
+    "peak_voltage.steady_state_current": {
+        "feature mean": 14.954199011547539,
+        "feature sd": 2.6843842274225485
+    },
+    "rheobase_current.global": {
+        "feature mean": 0.35,
+        "feature sd": 0.0
+    },
+    "rheobase_prev_current.global": {
+        "feature mean": 0.3,
+        "feature sd": 0.0
+    },
+    "sag_amplitude.standard_negative_current": {
+        "feature mean": 1.9468870959826745e-12,
+        "feature sd": 0.0
+    },
+    "sag_ratio1.standard_negative_current": {
+        "feature mean": 2.7377766593700384e-13,
+        "feature sd": 0.0
+    },
+    "sag_ratio2.standard_negative_current": {
+        "feature mean": 0.9999999999997262,
+        "feature sd": 0.0
+    },
+    "spike_half_width.highfreq_firing_current": {
+        "feature mean": 0.40710021357101134,
+        "feature sd": 0.01624095096580086
+    },
+    "spike_half_width.rheobase_current": {
+        "feature mean": 0.3748835196663729,
+        "feature sd": 0.0
+    },
+    "spike_half_width.steady_state_current": {
+        "feature mean": 0.41024668907874684,
+        "feature sd": 0.016487918248849927
+    },
+    "spike_width2.highfreq_firing_current": {
+        "feature mean": 0.21094045336020473,
+        "feature sd": 0.03078857770005617
+    },
+    "spike_width2.steady_state_current": {
+        "feature mean": 0.21080445892231758,
+        "feature sd": 0.029629099768038996
+    },
+    "standard_negative_current.global": {
+        "feature mean": -0.1,
+        "feature sd": 0.0
+    },
+    "steady_state_current.global": {
+        "feature mean": 0.7,
+        "feature sd": 0.0
+    },
+    "steady_state_hyper.rheobase_prev_current": {
+        "feature mean": -65.942382528664,
+        "feature sd": 0.0
+    },
+    "steady_state_hyper.standard_negative_current": {
+        "feature mean": -81.13567385134566,
+        "feature sd": 0.0
+    },
+    "steady_state_voltage.highfreq_firing_current": {
+        "feature mean": -74.03039779564777,
+        "feature sd": 0.0
+    },
+    "steady_state_voltage.rheobase_current": {
+        "feature mean": -74.0040925583034,
+        "feature sd": 0.0
+    },
+    "steady_state_voltage.rheobase_prev_current": {
+        "feature mean": -74.00136067005455,
+        "feature sd": 0.0
+    },
+    "steady_state_voltage.standard_negative_current": {
+        "feature mean": -74.12849094443838,
+        "feature sd": 0.0
+    },
+    "steady_state_voltage.steady_state_current": {
+        "feature mean": -74.3484650807309,
+        "feature sd": 0.0
+    },
+    "steady_state_voltage_stimend.rheobase_prev_current": {
+        "feature mean": -65.94238252866478,
+        "feature sd": 0.0
+    },
+    "steady_state_voltage_stimend.standard_negative_current": {
+        "feature mean": -81.13567385134374,
+        "feature sd": 0.0
+    },
+    "time_constant.standard_negative_current": {
+        "feature mean": 5.339210534943759,
+        "feature sd": 0.0
+    },
+    "time_to_first_spike.highfreq_firing_current": {
+        "feature mean": 1.599999999992832,
+        "feature sd": 0.0
+    },
+    "time_to_first_spike.rheobase_current": {
+        "feature mean": 3.9999999999926956,
+        "feature sd": 0.0
+    },
+    "time_to_first_spike.steady_state_current": {
+        "feature mean": 1.9999999999928093,
+        "feature sd": 0.0
+    },
+    "time_to_last_spike.highfreq_firing_current": {
+        "feature mean": 994.5000000000091,
+        "feature sd": 0.0
+    },
+    "time_to_last_spike.steady_state_current": {
+        "feature mean": 999.9000000000042,
+        "feature sd": 0.0
+    },
+    "time_to_second_spike.highfreq_firing_current": {
+        "feature mean": 8.799999999992423,
+        "feature sd": 0.0
+    },
+    "time_to_second_spike.steady_state_current": {
+        "feature mean": 10.499999999992326,
+        "feature sd": 0.0
+    },
+    "voltage_after_stim.highfreq_firing_current": {
+        "feature mean": -74.02447619871893,
+        "feature sd": 0.0
+    },
+    "voltage_after_stim.rheobase_current": {
+        "feature mean": -74.02447619740722,
+        "feature sd": 0.0
+    },
+    "voltage_after_stim.rheobase_prev_current": {
+        "feature mean": -74.02447619727005,
+        "feature sd": 0.0
+    },
+    "voltage_after_stim.standard_negative_current": {
+        "feature mean": -74.02447619744923,
+        "feature sd": 0.0
+    },
+    "voltage_after_stim.steady_state_current": {
+        "feature mean": -74.02447620137755,
+        "feature sd": 0.0
+    },
+    "voltage_base.highfreq_firing_current": {
+        "feature mean": -74.0244761964153,
+        "feature sd": 0.0
+    },
+    "voltage_base.rheobase_current": {
+        "feature mean": -74.02447619641704,
+        "feature sd": 0.0
+    },
+    "voltage_base.rheobase_prev_current": {
+        "feature mean": -74.0244761964172,
+        "feature sd": 0.0
+    },
+    "voltage_base.standard_negative_current": {
+        "feature mean": -74.02447619641845,
+        "feature sd": 0.0
+    },
+    "voltage_base.steady_state_current": {
+        "feature mean": -74.02447619641593,
+        "feature sd": 0.0
+    },
+    "voltage_deflection.standard_negative_current": {
+        "feature mean": -7.131174076845738,
+        "feature sd": 0.0
+    },
+    "voltage_deflection_begin.standard_negative_current": {
+        "feature mean": -7.131118579033583,
+        "feature sd": 0.0
+    },
+    "voltage_deflection_vb_ssse.standard_negative_current": {
+        "feature mean": -7.1111976549252915,
+        "feature sd": 0.0
+    }
+}

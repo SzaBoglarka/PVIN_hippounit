@@ -1,0 +1,5 @@
+{
+"point_models" : ["Sherif 2020", "Neymotin 2011", "Neymotin 2013", "Stacey(rb) 2009", "Stacey(vd) 2009", "Vladimirov 2013", "Hu(rb) 2018", "Hummos 2014", "Hu(vd) 2018"],
+"stylized_models" : ["Cuts&Poir 2015","Lee 2014","Turi 2019","Saudargiene 2015","Bezaire 2016"],
+"detailed_models" : ["Tzilivaki.5 2019", "Tzilivaki.4 2019", "Ferr&Asco 2015", "Migliore 2018", "Tzilivaki.3 2019", "Tzilivaki.2 2019", "Tzilivaki.1 2019", "Chiovini 2014"]
+}

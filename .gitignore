@@ -1,0 +1,9 @@
+# git ignore file for the standard hippounit repo 
+
+README_from_me_to_me.txt
+validation_results_TEST
+/home/szabobogi/hippounit_standard_features/visualization/figures_MOUSE/Finalscore_plot
+/home/szabobogi/hippounit_standard_features/visualization/figures_MOUSE/Nan_vs_Finalscore_plot/
+/home/szabobogi/hippounit_standard_features/visualization/figures_RAT/Finalscore_plot
+/home/szabobogi/hippounit_standard_features/visualization/figures_RAT/Nan_vs_Finalscore_plot/
+

@@ -1,0 +1,7 @@
+Features excluded (due to invalid values):
+AP_duration_half_width.highfreq_firing_current, AP_duration_half_width.steady_state_current, AP_duration_half_width_change.highfreq_firing_current, AP_duration_half_width_change.steady_state_current
+---------------------------------------------------------------------------------------------------
+Number of features succesfully evaluated: 190/194
+---------------------------------------------------------------------------------------------------
+ZScore_avg = 6.98
+---------------------------------------------------------------------------------------------------

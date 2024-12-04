@@ -1,0 +1,29 @@
+
+# importing and running all the model spikecount scripts
+import model_spikecounts_bezaire
+import model_spikecounts_chiovini
+import model_spikecounts_cutspoir
+# import model_spikecounts_edin_rb_34
+# import model_spikecounts_edin_rb_63
+# import model_spikecounts_edin_vd_34
+# import model_spikecounts_edin_vd_63
+import model_spikecounts_ferrasco
+import model_spikecounts_hu_point_rb
+import model_spikecounts_hu_point_vd
+import model_spikecounts_hummos
+import model_spikecounts_lee
+import model_spikecounts_migliore
+import model_spikecounts_neymotin11
+import model_spikecounts_neymotin13
+import model_spikecounts_saraga_34
+import model_spikecounts_saraga_63
+import model_spikecounts_saudargiene
+import model_spikecounts_stacey_rb
+import model_spikecounts_stacey_vd
+import model_spikecounts_turi
+import model_spikecounts_tzilivaki1
+import model_spikecounts_tzilivaki2
+import model_spikecounts_tzilivaki3
+import model_spikecounts_tzilivaki4
+import model_spikecounts_tzilivaki5
+import model_spikecounts_vladimirov
